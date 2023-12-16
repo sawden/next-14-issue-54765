@@ -1,0 +1,6 @@
+{
+  "server-component": {
+    "text": "Možná to nevidíš, ale Pikachu je smutné, protože Next.js <a href='https://github.com/vercel/next.js/issues/54765' target='_blank'>nedokáže načíst public assets</a>, když je internacionalizace nastavena přesně podle <a href='https://nextjs.org/docs/app/building-your-application/routing/internationalization' target='_blank'>dokumentace</a> nebo při použití <a href='https://github.com/vercel/next.js/tree/canary/examples/app-dir-i18n-routing' target='_blank'>oficiálního příkladu 'app-dir-i18n-routing'</a>.",
+    "imageAlt": "Obrázek smutného Pikachu"
+  }
+}
